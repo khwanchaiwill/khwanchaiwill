@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**khwanchaiwill/khwanchaiwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hello Everyone
-
 <img src="https://avatars0.githubusercontent.com/u/64489050?s=460&u=7ba41ef7e577172978574c7b11c77418b6ea60f3&v=4-512" width = "400" />
 <br>
 <h1> Khwanchai Phaipha</h1>
@@ -20,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
