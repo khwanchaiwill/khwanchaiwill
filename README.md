@@ -4,7 +4,8 @@
 <br>
 <h1> Khwanchai Phaipha</h1>
 <h3> khwanchaiwill </h3>
-
+<a href= "mailto:porpan00@hotmail.com>porpan00@hotmail.com</a>
+<a href= "https://www.linkedin.com/in/khwanchai-phaipha-266885a7/" align="center>https://www.linkedin.com/in/khwanchai-phaipha-266885a7/ </a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## Contact me
-<a href= "mailto:porpan00@hotmail.com>porpan00@hotmail.com</a>
-<a href= "https://www.linkedin.com/in/khwanchai-phaipha-266885a7/" align="center>https://www.linkedin.com/in/khwanchai-phaipha-266885a7/ </a>
+
 
