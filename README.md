@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Contact me
 <a href= "mailto:porpan00@hotmail.com>porpan00@hotmail.com</a>
-<a href= "https://www.linkedin.com/in/khwanchai-phaipha-266885a7/" align="center>https://www.linkedin.com/in/khwanchai-phaipha-266885a7/</a>
+<a href= "https://www.linkedin.com/in/khwanchai-phaipha-266885a7/" align="center>https://www.linkedin.com/in/khwanchai-phaipha-266885a7/ </a>
 
