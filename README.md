@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Khwanchai Phaipha Full stack web developer, currently Lambda School full-time student.
+I'm Khwanchai Phaipha Full stack web developer, Endorsement from Lambda School, Open for work
 ### Alittle about me
 
 <img src="https://avatars0.githubusercontent.com/u/64489050?s=460&u=7ba41ef7e577172978574c7b11c77418b6ea60f3&v=4-512" width = "400" />
